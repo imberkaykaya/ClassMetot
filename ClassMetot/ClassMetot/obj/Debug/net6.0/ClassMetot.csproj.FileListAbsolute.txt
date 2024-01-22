@@ -1,0 +1,15 @@
+/Users/berkaykaya/Projects/ClassMetot/ClassMetot/ClassMetot/bin/Debug/net6.0/ClassMetot
+/Users/berkaykaya/Projects/ClassMetot/ClassMetot/ClassMetot/bin/Debug/net6.0/ClassMetot.deps.json
+/Users/berkaykaya/Projects/ClassMetot/ClassMetot/ClassMetot/bin/Debug/net6.0/ClassMetot.runtimeconfig.json
+/Users/berkaykaya/Projects/ClassMetot/ClassMetot/ClassMetot/bin/Debug/net6.0/ClassMetot.dll
+/Users/berkaykaya/Projects/ClassMetot/ClassMetot/ClassMetot/bin/Debug/net6.0/ClassMetot.pdb
+/Users/berkaykaya/Projects/ClassMetot/ClassMetot/ClassMetot/obj/Debug/net6.0/ClassMetot.csproj.AssemblyReference.cache
+/Users/berkaykaya/Projects/ClassMetot/ClassMetot/ClassMetot/obj/Debug/net6.0/ClassMetot.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berkaykaya/Projects/ClassMetot/ClassMetot/ClassMetot/obj/Debug/net6.0/ClassMetot.AssemblyInfoInputs.cache
+/Users/berkaykaya/Projects/ClassMetot/ClassMetot/ClassMetot/obj/Debug/net6.0/ClassMetot.AssemblyInfo.cs
+/Users/berkaykaya/Projects/ClassMetot/ClassMetot/ClassMetot/obj/Debug/net6.0/ClassMetot.csproj.CoreCompileInputs.cache
+/Users/berkaykaya/Projects/ClassMetot/ClassMetot/ClassMetot/obj/Debug/net6.0/ClassMetot.dll
+/Users/berkaykaya/Projects/ClassMetot/ClassMetot/ClassMetot/obj/Debug/net6.0/refint/ClassMetot.dll
+/Users/berkaykaya/Projects/ClassMetot/ClassMetot/ClassMetot/obj/Debug/net6.0/ClassMetot.pdb
+/Users/berkaykaya/Projects/ClassMetot/ClassMetot/ClassMetot/obj/Debug/net6.0/ClassMetot.genruntimeconfig.cache
+/Users/berkaykaya/Projects/ClassMetot/ClassMetot/ClassMetot/obj/Debug/net6.0/ref/ClassMetot.dll
